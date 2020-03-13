@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reprodutor>
+    <playlist nome="só as antigas">
+        <musica artista="forro sacode" genero="forro" duração="3min30seg">papai raparigueiro</musica>
+        <musica artista="junior viana" genero="forro" duração="4min">matuto do paredão</musica>
+    </playlist>
+    <playlist nome="só as boas">
+        <musica artista="mc lalau" genero="bregafunk" duração="3min">vem sentando vem</musica>
+        <musica artista="zé vaqueiro" genero="piseiro" duração="2min">sequencia de vapo vapo</musica>
+    </playlist>
+    <playlist nome="concentração">
+        <musica artista="mozart" genero="classicos" duração="7min">Sinfonia n.º 40</musica>
+        <musica artista="mozart" genero="classicos" duração="7min">Don giovanni</musica>
+    </playlist>
+</reprodutor>

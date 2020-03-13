@@ -1,0 +1,30 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<delivery nome = "ifood">
+    <cliente id="01" nome="jefferson" endereco="rua celta">
+        <pedidos categoria="hamburgueres">
+            <pedido quantidade = "1">
+                X-tudo
+            </pedido>
+            <pedido quantidaade = "2">
+                X-salada
+            </pedido>
+        </pedidos>
+    </cliente>
+    <cliente id="02" nome="estefani" endereco="rua luiz">
+        <pedidos categoria="pizza">
+            <pedido tamanho = "grande" quantidade = "1">
+                calabresa
+            </pedido>
+            <pedido tamanho = "familia" quantidade = "3">
+                quatro queijos
+            </pedido>
+        </pedidos>
+    </cliente>
+    <cliente id="01" nome="sebaastiao" endereco="rua almeida">
+        <pedidos categoria="acaí">
+            <pedido quantidaade = "5">
+                acai 500 ml
+            </pedido>
+        </pedidos>
+    </cliente>
+</delivery>

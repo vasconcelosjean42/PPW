@@ -1,0 +1,32 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<biblioteca nome="bibliocateca estadual de ibiraca">
+    <livros categoria="livros infantis">
+        <livro autor="Rosie Dickins" editora="Nobel">
+            chapeuzinho vermelho
+        </livro>
+        <livro autor="andrey wood" editora="prosseguir">
+            A casa sonolenta
+        </livro>
+    </livros>
+    <livros categoria="religiosos">
+        <livro autor="W hilliam P. Young" editora="Nobel">
+            chapeuzinho vermelho
+        </livro>
+        <livro autor="andrey wood" editora="prosseguir">
+            A casa sonolenta
+        </livro>
+    </livros>
+    <livros categoria="livros infantis">
+        <livro autor="Rosie Dickins" editora="Nobel">
+            chapeuzinho vermelho
+        </livro>
+        <livro autor="andrey wood" editora="prosseguir">
+            A casa sonolenta
+        </livro>
+    </livros>
+    <bibliotecarios>
+        <bibliotecario idade="50">
+            Regina Soares
+        </bibliotecario>
+    </bibliotecarios>
+</biblioteca>
